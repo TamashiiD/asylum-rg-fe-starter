@@ -108,7 +108,7 @@ function RenderLandingPage(props) {
         </div>
         <div>
           <button
-            className="buttonUnderGraphs downloadData"
+            className="buttonUnderGraphs downloadData "
             type="default"
             style={{ backgroundColor: '#404C4A', color: '#FFFFFF' }}
             onClick={handleClick}
